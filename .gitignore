@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.*
+
+# Laravel storage
+storage/logs/
+storage/framework/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
